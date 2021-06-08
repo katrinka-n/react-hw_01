@@ -1,0 +1,8 @@
+.main {
+  max-width: 85vw;
+  padding: 15px;
+}
+
+.main p {
+  text-align: justify;
+}

@@ -1,0 +1,17 @@
+.left-navbar {
+  margin: 0;
+  width: 15vw;
+  height: 100vh;
+  background-color: rgb(52, 35, 145);
+}
+
+.left-navbar_nav {
+  margin: 0;
+  padding: 60px 10px;
+  list-style: none;
+}
+
+.left-navbar_nav li {
+  margin: 20px;
+  color: rgb(238, 230, 230);
+}
